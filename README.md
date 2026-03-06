@@ -28,6 +28,7 @@ This portfolio serves as:
 - A **reference** for future projects in business analysis and data analytics
 
 ---
-
 ## 📜 License
 This project is licensed under the GNU GPL v2 (see LICENSE.txt).
+## 📚 Power BI Dashboard
+![Power BI Dashboard](Screenshot 2026-03-06 132331.png)
