@@ -31,4 +31,4 @@ This portfolio serves as:
 ## 📜 License
 This project is licensed under the GNU GPL v2 (see LICENSE.txt).
 ## 📚 Power BI Dashboard
-[Power BI Dashboard](Screenshot 2026-03-06 132331.png)
+[Power BI Dashboard](Powerbi-Dashboard.png)
