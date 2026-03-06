@@ -2,8 +2,8 @@ Welcome to my Business & Data-Analysis Portfolio:-
 A structured Business $ Data Analysis Portfolio highlighting my journey through data tools (Excel, Power BI, SQL, Python, Tableau) and methodologies (Agile, SDLC, BRD/FRD, Jira, Confluence) — combining dashboards, worksheets, Modeling tools, Trello Notion and documentation to showcase practical skills for real‑world business problem solving.
 It is designed to showcase my ability to combine analytical thinking, technical expertise, and business process knowledge into professional outputs.
 # 📚 Topics Covered
-- **Excel**: Advanced formulas, pivot tables, dashboards, automation.
 - **Power BI**: Data visualization, Interactive reports, Business insights, Power Query Editor, Charts Types, Joints, Fuzzy Matches
+-  **Excel**: Advanced formulas, pivot tables, dashboards, automation.
 - **SQL**: Queries, joins, stored procedures, database management
 - **Python**: Data cleaning, analysis, automation scripts
 - **Tableau**: Interactive dashboards, storytelling with data
