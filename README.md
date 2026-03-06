@@ -32,16 +32,44 @@ This portfolio serves as:
 This project is licensed under the GNU GPL v2 (see LICENSE.txt).
 ## 📚 Power BI Dashboard
 [Power BI Dashboard](Powerbi-Dashboard.png)
-## 📚 Power BI Charts 
-![Different Types of Charts In power BI](Stacked Charts.png)
-![Different Types of Charts In power BI](Stacked Bar Chart.png)
-![Different Types of Charts In power BI](Stacked Area Chart.png)
-![Different Types of Charts In power BI](Pie Chart.png)
-![Different Types of Charts In power BI](Stacked Charts.png)
-![Different Types of Charts In power BI](Line Chart.png)
-![Different Types of Charts In power BI](Donut Chart with Total sales in the centre.png)
-![Different Types of Charts In power BI](Clustered Cloumn Chart.png)
-![Different Types of Charts In power BI](Clustered Bar Chart.png)
-![Different Types of Charts In power BI](Area Chart.png)
-![Different Types of Charts In power BI](100% Stacked Bar Chart.png)
-![Different Types of Charts In power BI](100% Stacked Area Chart.png)
+
+---
+## 📊 Chart Gallery
+
+This section highlights different types of charts I’ve created in Power BI.  
+Each chart demonstrates how data can be visualized in multiple formats for business insights.
+
+- **100% Stacked Area Chart**  
+  ![100% Stacked Area Chart](Charts/100%-stacked-area.png)
+
+- **100% Stacked Bar Chart**  
+  ![100% Stacked Bar Chart](Charts/100%-stacked-bar.png)
+
+- **Area Chart**  
+  ![Area Chart](Charts/area-chart.png)
+
+- **Clustered Bar Chart**  
+  ![Clustered Bar Chart](Charts/clustered-bar-chart.png)
+
+- **Clustered Column Chart**  
+  ![Clustered Column Chart](Charts/clustered-column-chart.png)
+
+- **Donut Chart with Totals**  
+  ![Donut Chart](Charts/donut-chart.png)
+
+- **Line Chart**  
+  ![Line Chart](Charts/line-chart.png)
+
+- **Pie Chart**  
+  ![Pie Chart](Charts/pie-chart.png)
+
+- **Stacked Area Chart**  
+  ![Stacked Area Chart](Charts/stacked-area-chart.png)
+
+- **Stacked Bar Chart**  
+  ![Stacked Bar Chart](Charts/stacked-bar-chart.png)
+
+- **Stacked Charts (Combined)**  
+  ![Stacked Charts](Charts/stacked-charts.png)
+
+
