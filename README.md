@@ -32,3 +32,16 @@ This portfolio serves as:
 This project is licensed under the GNU GPL v2 (see LICENSE.txt).
 ## 📚 Power BI Dashboard
 [Power BI Dashboard](Powerbi-Dashboard.png)
+## 📚 Power BI Charts 
+![Different Types of Charts In power BI](Stacked Charts.png)
+![Different Types of Charts In power BI](Stacked Bar Chart.png)
+![Different Types of Charts In power BI](Stacked Area Chart.png)
+![Different Types of Charts In power BI](Pie Chart.png)
+![Different Types of Charts In power BI](Stacked Charts.png)
+![Different Types of Charts In power BI](Line Chart.png)
+![Different Types of Charts In power BI](Donut Chart with Total sales in the centre.png)
+![Different Types of Charts In power BI](Clustered Cloumn Chart.png)
+![Different Types of Charts In power BI](Clustered Bar Chart.png)
+![Different Types of Charts In power BI](Area Chart.png)
+![Different Types of Charts In power BI](100% Stacked Bar Chart.png)
+![Different Types of Charts In power BI](100% Stacked Area Chart.png)
