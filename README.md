@@ -9,7 +9,7 @@ It is designed to showcase my ability to combine analytical thinking, technical 
   Data cleaning & preparation
   Data modelling (relationships, measures)
   Interactive visuals & dashboards
-  DAX basics (like calculated columns/measures)
+  DAX (calculated columns, measures, basic formulas)
 -  **Excel**: Advanced formulas, pivot tables, dashboards, automation.
 - **SQL**: Queries, joins, stored procedures, database management
 - **Python**: Data cleaning, analysis, automation scripts
